@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xXFoxTrotx
-- 👀 I’m interested in gaming, programming and development of programs for future uses - Also reading and occasional philisophical questions.
+- 👀 I’m interested in gaming, programming and development of programs for future uses.
 - 🌱 I’m currently learning the basics for how to on IT
 - 💞️ I’m looking to collaborate on Programming of AI and or Security of information (in due time).
 - 📫 How to reach me: 
